@@ -1,0 +1,11 @@
+/* Webfont: LatoLatin-Hairline */@font-face {
+    font-family: 'LatoLatinWebHairline';
+    src: url('fonts/LatoLatin-Hairline.eot'); /* IE9 Compat Modes */
+    src: url('fonts/LatoLatin-Hairline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/LatoLatin-Hairline.woff2') format('woff2'), /* Modern Browsers */
+         url('fonts/LatoLatin-Hairline.woff') format('woff'), /* Modern Browsers */
+         url('fonts/LatoLatin-Hairline.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

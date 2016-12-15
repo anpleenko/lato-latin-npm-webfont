@@ -1,0 +1,24 @@
+{
+  "name": "lato-latin-npm-webfont",
+  "version": "0.0.2",
+  "description": "lato latin webfont package",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaeum//lato-latin-npm-webfont.git"
+  },
+  "keywords": [
+    "lato",
+    "lato latin",
+    "webfont"
+  ],
+  "author": "Vaeum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaeum//lato-latin-npm-webfont/issues"
+  },
+  "homepage": "https://github.com/vaeum//lato-latin-npm-webfont#readme"
+}
