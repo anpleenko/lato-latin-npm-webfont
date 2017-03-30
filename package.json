@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaeum/lato-latin-npm-webfont.git"
+    "url": "https://github.com/vaeum/lato-latin-npm-webfont.git"
   },
   "keywords": [
     "lato",
@@ -16,9 +16,9 @@
     "webfont"
   ],
   "author": "Vaeum",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vaeum//lato-latin-npm-webfont/issues"
+    "url": "https://github.com/vaeum/lato-latin-npm-webfont/issues"
   },
-  "homepage": "https://github.com/vaeum//lato-latin-npm-webfont#readme"
+  "homepage": "https://github.com/vaeum/lato-latin-npm-webfont#readme"
 }
