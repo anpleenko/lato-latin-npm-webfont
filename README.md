@@ -1,4 +1,6 @@
-## lato latin webfont package
+# Lato latin webfont package
+
+### webfont package
 
 [![NPM](https://nodei.co/npm-dl/lato-latin-npm-webfont.png?months=1)](https://nodei.co/npm/lato-latin-npm-webfont/)
 

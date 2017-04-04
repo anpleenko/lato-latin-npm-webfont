@@ -1,6 +1,6 @@
 {
   "name": "lato-latin-npm-webfont",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lato latin webfont package",
   "main": "style.css",
   "scripts": {
